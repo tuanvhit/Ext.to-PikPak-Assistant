@@ -1,0 +1,1 @@
+This extension is committed to user privacy. We do not collect, store, or sell any personal data. All data related to your search filters and PikPak account is stored locally on your device or transmitted directly between your browser and the PikPak service via their official API
