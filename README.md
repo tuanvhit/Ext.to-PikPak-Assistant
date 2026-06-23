@@ -33,8 +33,11 @@ Search → **One-Click Add.**
 - **Bulk Action:** Copy magnets or open links with ease.
 
 ## 📥 Installation
+### Option 1: Chrome Web Store (Recommended)
+Install the extension directly from the Chrome Web Store for automatic updates and easy management:
+👉 **[Install Ext.to PikPak Assistant](https://chromewebstore.google.com/detail/extto-pikpak-assistant/kohmfeooipmkkgjlddfpeognbcgalnoi)**
 
-### Option 1: Developer Mode (Manual)
+### Option 2: Developer Mode (Manual)
 1. **Download** the latest release from the [Releases page](https://github.com/tuanvhit/Ext.to-PikPak-Assistant/releases).
 2. **Extract** the `.zip` file to a folder on your computer.
 3. Open your browser and go to `chrome://extensions`.
